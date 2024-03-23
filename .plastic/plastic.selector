@@ -1,0 +1,4 @@
+repository "get-started@sofoc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
